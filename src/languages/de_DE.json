@@ -122,11 +122,15 @@
       "Byzantines": "Byzantiner",
       "Japanese": "Japaner",
       "Ayyubids": "Ayyubiden",
-      "ZhuXiLegacy": "Vermächtnis von Zhu Xi",
-      "JeanneDArc": "Johanna von Orléans",
+      "ZhuXiLegacy": "Zhu Xis Vermächtnis",
+      "JeanneDArc": "Jeanne d‘Arc",
       "OrderOfTheDragon": "Orden des Drachen",
       "HouseOfLancaster": "Haus Lancaster",
-      "KnightsTemplar": "Knights Templar"
+      "KnightsTemplar": "Tempelritter",
+      "GoldenHorde": "Goldene Horde",
+      "SengokuDaimyo": "Sengoku Daimyo",
+      "MacedonianDynasty": "Makedonische Dynastie",
+      "TughlaqDynasty": "Tughluq-Dynastie"
     },
     "aomgods": {
       "Zeus": "Zeus",
@@ -349,7 +353,9 @@
     "draftName": "Draft-Name"
   },
   "preset": {
-    "shareThisPreset": "Teile dieses Preset:"
+    "shareThisPreset": "Teile dieses Preset:",
+    "recentDraftsTitle": "Vergangene Drafts für dieses Preset",
+    "noDraftsAvailable": "Keine Drafts verfügbar."
   },
   "presetEditor": {
     "helpAndInstructions": "Hilfe und Anleitung",
@@ -386,7 +392,11 @@
       "categoryName": "Kategorie"
     }
   },
+  "topPrivateDraftWarning": "PRIVATER ÜBUNGS-DRAFT – WIRD NICHT GESPEICHERT",
   "createNewDraft": "Neuen Draft mit diesem Preset erstellen",
+  "createNewPrivateDraft": "Neuen privaten Übungs-Draft erstellen",
+  "privateDraftInfo1": "Wird gelöscht, sobald der Draft abgeschlossen ist",
+  "privateDraftInfo2": "Taucht nicht in der Liste der letzten Drafts auf der Zusehen-Seite auf",
   "createNewPreset": "Neues Preset erstellen",
   "customiseThisPreset": "Dieses Preset bearbeiten",
   "savePreset": "Preset speichern",

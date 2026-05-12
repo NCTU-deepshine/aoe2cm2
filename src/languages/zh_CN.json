@@ -122,11 +122,15 @@
       "Byzantines": "拜占庭",
       "Japanese": "日语",
       "Ayyubids": "苏丹的军队",
-      "ZhuXiLegacy": "翡翠帝国",
+      "ZhuXiLegacy": "朱子遗训",
       "JeanneDArc": "圣女贞德",
       "OrderOfTheDragon": "龙之骑士团",
-      "HouseOfLancaster": "兰开斯特家族",
-      "KnightsTemplar": "圣殿骑士团"
+      "HouseOfLancaster": "兰开斯特王朝",
+      "KnightsTemplar": "圣殿骑士团",
+      "GoldenHorde": "金帐汗国",
+      "SengokuDaimyo": "战国大名",
+      "MacedonianDynasty": "马其顿王朝",
+      "TughlaqDynasty": "图格鲁克王朝"
     }
   },
   "messages": {
@@ -327,7 +331,9 @@
     "draftName": "BP名称"
   },
   "preset": {
-    "shareThisPreset": "分享此预设："
+    "shareThisPreset": "分享此预设：",
+    "recentDraftsTitle": "此预设的BP历史记录",
+    "noDraftsAvailable": "暂无记录"
   },
   "presetEditor": {
     "helpAndInstructions": "帮助/说明",
@@ -356,7 +362,11 @@
       "animatedUnitImageUrlRight": "动态单位（右） 图片链接"
     }
   },
+  "topPrivateDraftWarning": "练习用的私密BP - 不存留记录",
   "createNewDraft": "用此预设建立",
+  "createNewPrivateDraft": "建立练习用私密BP",
+  "privateDraftInfo1": "用完即自动删除",
+  "privateDraftInfo2": "不在历史记录里显示",
   "createNewPreset": "创建新预设",
   "savePreset": "保存预设",
   "setYourName": "设置ID",

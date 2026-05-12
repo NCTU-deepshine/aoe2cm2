@@ -122,11 +122,15 @@
       "Byzantines": "Byzantins",
       "Japanese": "Japonais",
       "Ayyubids": "Ayyoubides",
-      "ZhuXiLegacy": "Empire de Jade",
-      "JeanneDArc": "Jeanne d'Arc",
+      "ZhuXiLegacy": "Héritage de Zhu Xi",
+      "JeanneDArc": "Jeanne d'Arc",
       "OrderOfTheDragon": "Ordre du Dragon",
-      "HouseOfLancaster": "House of Lancaster",
-      "KnightsTemplar": "Knights Templar"
+      "HouseOfLancaster": "Maison de Lancastre",
+      "KnightsTemplar": "Templiers",
+      "GoldenHorde": "Horde d'or",
+      "SengokuDaimyo": "Daimyo de l'époque Sengoku",
+      "MacedonianDynasty": "Dynastie macédonienne",
+      "TughlaqDynasty": "Dynastie des Tughlûq"
     }
   },
   "messages": {
@@ -327,7 +331,9 @@
     "draftName": "Nom de la draft"
   },
   "preset": {
-    "shareThisPreset": "Partager ce préréglage :"
+    "shareThisPreset": "Partager ce Préréglage :",
+    "recentDraftsTitle": "Drafts récentes pour ce Préréglage",
+    "noDraftsAvailable": "Aucune Draft disponible."
   },
   "presetEditor": {
     "helpAndInstructions": "Aide et instructions",
@@ -355,7 +361,11 @@
       "animatedUnitImageUrlRight": "URL de l'unité animée (droite)"
     }
   },
+  "topPrivateDraftWarning": "DRAFT D'ENTRAÎNEMENT PRIVÉE – NE SERA PAS SAUVEGARDÉE",
   "createNewDraft": "Créer une nouvelle draft à partir de ce préréglage",
+  "createNewPrivateDraft": "Créer une Draft d'entraînement privée",
+  "privateDraftInfo1": "Sera supprimée une fois terminée",
+  "privateDraftInfo2": "N'est pas affichée parmi les Drafts récentes de l'onglet Regarder",
   "createNewPreset": "Créer un nouveau préréglage",
   "customiseThisPreset": "Modifie ce préréglage",
   "savePreset": "Sauvegarder ce préréglage",

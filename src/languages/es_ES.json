@@ -122,11 +122,15 @@
       "Byzantines": "Bizantinos",
       "Japanese": "Japonés",
       "Ayyubids": "Dinastía ayubí",
-      "ZhuXiLegacy": "Imperio de jade",
+      "ZhuXiLegacy": "Legado de Zhu Xi",
       "JeanneDArc": "Juana de Arco",
       "OrderOfTheDragon": "Orden del Dragón",
-      "HouseOfLancaster": "House of Lancaster",
-      "KnightsTemplar": "Knights Templar"
+      "HouseOfLancaster": "Casa Lancaster",
+      "KnightsTemplar": "Caballeros templarios",
+      "GoldenHorde": "Horda Dorada",
+      "SengokuDaimyo": "Daimyo sengoku",
+      "MacedonianDynasty": "Dinastía macedonia",
+      "TughlaqDynasty": "Dinastía tughlaq"
     }
   },
   "messages": {
@@ -327,7 +331,9 @@
     "draftName": "Nombre del Draft"
   },
   "preset": {
-    "shareThisPreset": "Compartir este Borrador:"
+    "shareThisPreset": "Compartir este Borrador:",
+    "recentDraftsTitle": "Recent Drafts for this Preset",
+    "noDraftsAvailable": "No Drafts available."
   },
   "presetEditor": {
     "helpAndInstructions": "Ayuda y instrucciónes",
@@ -356,7 +362,11 @@
       "unitImageUrl": "URL de la imágen de la unidad"
     }
   },
+  "topPrivateDraftWarning": "PRIVATE PRACTICE DRAFT – WILL NOT BE SAVED",
   "createNewDraft": "Crear un Draft",
+  "createNewPrivateDraft": "Create private practice Draft",
+  "privateDraftInfo1": "Will be deleted after completion",
+  "privateDraftInfo2": "Does not show up in Recent Drafts on the Spectate page",
   "createNewPreset": "Crear un nuevo Borrador",
   "customiseThisPreset": "Customizar este Borrador",
   "savePreset": "Guardar Borrador",
